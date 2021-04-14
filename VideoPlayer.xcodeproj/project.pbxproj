@@ -715,6 +715,7 @@
 				SWIFT_VERSION = 5.0;
 				TARGET_NAME = VideoPlayer;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VALID_ARCHS = "$(ARCHS_STANDARD) x86_64";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Debug;
@@ -746,6 +747,7 @@
 				SWIFT_VERSION = 5.0;
 				TARGET_NAME = VideoPlayer;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VALID_ARCHS = "$(ARCHS_STANDARD) x86_64";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Release;
@@ -846,6 +848,7 @@
 				SWIFT_VERSION = 5.0;
 				TARGET_NAME = GSPlayer;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VALID_ARCHS = "$(ARCHS_STANDARD) x86_64";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Debug;
@@ -877,6 +880,7 @@
 				SWIFT_VERSION = 5.0;
 				TARGET_NAME = GSPlayer;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VALID_ARCHS = "$(ARCHS_STANDARD) x86_64";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
 			};
 			name = Release;
